@@ -1,2 +1,4 @@
 # CatPhotoApp
-Cat Photo App from freeCodeCamp
+No Copyright
+Cat Photo App from freeCodeCamp.org
+Created using internal freeCodeCamp IDE
